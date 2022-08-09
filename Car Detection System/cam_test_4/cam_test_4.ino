@@ -19,8 +19,8 @@
 
 #include "camera_pins.h"
 
-const char* ssid = "HG8145V5_35184";
-const char* password = "CfPHq2B3";
+const char* ssid = "Wifi Name"; // Put wifi name here
+const char* password = "Wifi Password"; // Put wifi password here
 
 void startCameraServer();
 
