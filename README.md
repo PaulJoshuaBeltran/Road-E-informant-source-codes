@@ -1,4 +1,4 @@
-## Project Title (Under Revision) ##
+## Project Title ##
 Road E-informant: Monitoring Tool for Public Roads' Safety Factors via Sensors, Database, and Visual Display<br/>
 
 Google Docs link for the research paper: https://docs.google.com/document/d/1WfmmQprE-1op951qCTf9Ai6rSTqSlAENZmRS8OX3Bn4/edit?usp=sharing
@@ -13,49 +13,57 @@ Arduino libraries: TFT.h, SPI.h, Keypad.h, ESP8266WiFi.h, FirebaseArduino.h, Wir
 Processing library: processing.serial.Serial<br/>
 Visual Studio libraries: cv2 and matplotlib's pyplot<br/>
 
-## Information about Contributors (Under Revision) ##
-- Paul Joshua C. Beltran<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-Pasig City, Philippines<br/>
-paul_beltran@dlsu.edu.ph<br/>
-- Khiel A. Caceres<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-Quezon City, Philippines<br/>
-khiel_a_caceres@dlsu.edu.ph<br/>
-- John Joe Jeffrey N. Cervantes<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-City, Philippines<br/>
-john_joe_cervantes@dlsu.edu.ph<br/>
-- Felix Gabriel S. Montanez<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-City, Philippines<br/>
-felix_gabriel_montanez@dlsu.edu.ph<br/>
-- Frank Lloyd Morallos<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-City, Philippines<br/>
-frank_lloyd_morallos@dlsu.edu.ph<br/>
-- Kevin R. Napisa<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-Makati City, Philippines<br/>
-kevin_napisa@dlsu.edu.ph<br/>
-- Mike Louie Enriquez<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-City, Philippines<br/>
-mike_enriquez@dlsu.edu.ph<br/>
-- Argel Bandala<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-City, Philippines<br/>
-argel.bandala@dlsu.edu.ph<br/>
-- Ronnie Concepcion II<br/>
-Gokongwei College of Engineering<br/>
-De La Salle University Manila<br/>
-City, Philippines<br/>
-ronnie.concepcion@dlsu.edu.ph<br/>
+## Information about Contributors ##
+Paul Joshua C. Beltran
+Gokongwei College of Engineering
+De La Salle University Manila
+Pasig City, Philippines
+paul_beltran@dlsu.edu.ph
+
+Khiel A. Caceres
+Gokongwei College of Engineering
+De La Salle University Manila
+Quezon City, Philippines
+khiel_a_caceres@dlsu.edu.ph
+
+John Joe Jeffrey N. Cervantes
+Gokongwei College of Engineering
+De La Salle University Manila
+Tarlac City, Philippines
+john_joe_cervantes@dlsu.edu.ph
+
+Felix Gabriel S. Montanez
+Gokongwei College of Engineering
+De La Salle University Manila
+Quezon City, Philippines
+felix_gabriel_montanez@dlsu.edu.ph
+
+Frank Lloyd T. Morallos
+Gokongwei College of Engineering
+De La Salle University Manila
+Pasay City, Philippines
+frank_lloyd_morallos@dlsu.edu.ph
+
+Kevin R. Napisa
+Gokongwei College of Engineering
+De La Salle University Manila
+Makati City, Philippines
+kevin_napisa@dlsu.edu.ph
+
+Mike Louie Enriquez
+Department of Manufacturing Engineering and Management
+De La Salle University Manila
+City, Philippines
+mike_enriquez@dlsu.edu.ph
+
+Argel A. Bandala
+Department of Electronics and Communication Engineering
+De La Salle University Manila
+City, Philippines
+argel.bandala@dlsu.edu.ph
+
+Ronnie S. Concepcion II
+Department of Manufacturing Engineering and Management
+De La Salle University Manila
+City, Philippines
+ronnie.concepcion@dlsu.edu.ph
